@@ -1,6 +1,6 @@
 // Program to implement priority-queue
-// using array implementation of
-// binary heap
+// using array implementation of binary heap
+
 
 #include <bits/stdc++.h>
 using namespace std;
